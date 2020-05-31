@@ -1,3 +1,9 @@
+# Bazel and CLion
+.idea
+# CMakeLists create from https://github.com/lizan/bazel-cmakelists
+CMakeLists.txt
+/bazel-*
+
 # Prerequisites
 *.d
 
