@@ -1,5 +1,5 @@
-#ifndef MAIN_HELLO_GREET_H_
-#define MAIN_HELLO_GREET_H_
+#ifndef MAIN_HELLO_GREET_H
+#define MAIN_HELLO_GREET_H
 
 #include <string>
 

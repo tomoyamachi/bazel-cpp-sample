@@ -3,6 +3,7 @@
 # CMakeLists create from https://github.com/lizan/bazel-cmakelists
 CMakeLists.txt
 /bazel-*
+/cmake-build-debug
 
 # Prerequisites
 *.d
